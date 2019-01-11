@@ -1,2 +1,2 @@
 # blog-gitalk
-Gitalk for [LZLEVIN'S BLOG](blog.lzlevin.cn).
+Gitalk for [LZLEVIN'S BLOG](https://blog.lzlevin.cn).
